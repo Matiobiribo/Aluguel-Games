@@ -1,6 +1,6 @@
 <h1>Aluguel Games 🎮</h1>
 
-> 🟡 Status: Em Desenvolvimento! ⚠️
+> 🟢 Status: Online e Roteando ✔️
 
 
 ## Sobre o projeto: 📄
@@ -71,9 +71,9 @@ O projeto adota uma arquitetura MVC (Model-View-Controller), onde as classes de 
 
 #### Observações de Implementação:
 
-> O sistema utiliza boas práticas de desenvolvimento, como tratamento de exceções e anotações para mapeamento de endpoints e entidades.
->
-> Nota: O código fornecido é uma representação simplificada e pode conter mais elementos que não foram incluídos neste resumo.
+ O sistema utiliza boas práticas de desenvolvimento, como tratamento de exceções e anotações para mapeamento de endpoints e entidades.
+
+ Nota: O código fornecido é uma representação simplificada e pode conter mais elementos que não foram incluídos neste resumo.
 
 
 ## Instalação: 📥
